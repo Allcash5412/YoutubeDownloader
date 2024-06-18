@@ -13,8 +13,13 @@ coverage.xml
 log.txt
 env3.*
 env
+src/.env
 docs_build
 site_build
 venv
 docs.zip
+alembic.ini
 archive.zip
+certs/
+migrations/
+
